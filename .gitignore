@@ -1,0 +1,7 @@
+# Ignore Node Modules
+#node_modules
+npm-debug.log
+
+#Ignore credential files
+#/Database/credentials.js
+
